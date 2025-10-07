@@ -16,4 +16,4 @@ the analysis reveals how players adapt across Powerplay, Middle, and Death overs
 - Data Visualization, Feature Engineering, Cricket Analytics
 
 ### Author:
-*Your Name*
+Ritwik Mishra
